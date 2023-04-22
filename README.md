@@ -1,5 +1,5 @@
 
-# H1 Generator Eagle
+# Generator Eagle
 
 *Generate Profile and Project Readme files in seconds*
 
