@@ -1,0 +1,13 @@
+.navbar li{
+    list-style-type: none;
+    font-weight: bold;
+}
+.navbar-li{
+    display: flex;
+    margin: auto;
+    /* justify-content: space-around; */
+}
+.signup{
+    border: 1px solid rgb(109, 109, 109);
+    border-radius: 8px;
+}
