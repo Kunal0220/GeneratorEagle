@@ -11,9 +11,9 @@
 
 - **Effortless generation :** Save time and energy with an automated readme generation process.
 
-- **Reflection of your style:**Express your personality and creativity through your readme file.
+- **Reflection of your style:** Express your personality and creativity through your readme file.
 
-- **Impress your audience:**Grab your viewers' attention with a professional and polished readme.
+- **Impress your audience:** Grab your viewers' attention with a professional and polished readme.
 
 - **One-stop solution:** Generate both your profile and project readme files in one convenient location.
 
