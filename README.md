@@ -3,7 +3,7 @@
 
 *Generate Profile and Project Readme files in seconds*
 
-*Salient features:*
+### *Salient features:*
 
 - **Showcase your best self :** Create a personalized profile and project readme that truly represents you and your work.
 
@@ -25,3 +25,17 @@
 
 - **Customizable themes:** Choose from a variety of themes to create a unique and personalized readme file.
 
+
+### *Installation Guide:*
+
+### *Usage Instructions:*
+
+### *Configuration:*
+
+### *Contribution Guidelines:*
+
+### *License Informations:*
+
+### *Contact Information:*
+
+### *Badges:*
