@@ -1,7 +1,9 @@
 
-# Generator Eagle
+# Generator Eagle <a href="" target="blank"><img align="right" src="https://cdn.discordapp.com/attachments/1098618323975016490/1099248594986483782/logo_1.png" height="150" width="150" /></a>
 
 *Generate Profile and Project Readme files in seconds*
+
+*Salient features:*
 
 - **Showcase your best self :** Create a personalized profile and project readme that truly represents you and your work.
 
