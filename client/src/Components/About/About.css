@@ -1,18 +1,34 @@
 .AboutBody{
     background: rgb(235,211,205);
     background: linear-gradient(180deg, rgba(235,211,205,1) 44%, rgba(218,186,178,1) 72%, rgba(235,175,131,1) 86%);
-
     font-family: 'Roboto', sans-serif;
 }
 .AboutUsTag{
     color: rgb(84, 81, 81);
     margin-top: 2px;
 }
-
+.WRW , .WRWH{
+    padding: .5rem;
+    padding-left: 2rem;
+    color: #EA5455;
+}
+ .WRWH{
+    padding: .5rem;
+    padding-left: 2rem;
+    color: #408E91;
+}
+.WRWG{
+    padding: .5rem;
+    padding-left: 2rem;
+    color: #0E8388;
+}
+.WRW span ,.WRWG span ,.WRWH span  {
+    color: #495253;
+    font-weight: bold;
+}
 .aboutMainContainer{
     background-color: aliceblue;
-    height: 30rem;
-    width: 35rem;
+    width: 38rem;
     margin: auto;
     border-radius: 20px;
 }

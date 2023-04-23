@@ -12,8 +12,6 @@
     color: #3C486B;
     text-align: center;
 }
-
-
 .bannerImg{
     height: 20rem;
     position: absolute;
@@ -23,4 +21,15 @@
     z-index: -1;
     transform: rotate(-90deg);
 }
+.landingMainText{
+    width: 45rem;
+    font-family: 'Roboto', sans-serif;
+    font-family: 700;
+    font-size: 1.3rem;
+    
+}
 
+
+.landingMainContainer{
+    margin-left: 30rem;
+}
