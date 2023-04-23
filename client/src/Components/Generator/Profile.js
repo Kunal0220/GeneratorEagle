@@ -1,11 +1,12 @@
 import { FiDownload, FiUpload } from 'react-icons/fi';
 import React, { Profiler, useState } from 'react';
 import fileSaver from 'file-saver';
-import '../components/Generator.css'
+import './Generator.css'
 import { Uploader } from 'cloudinary-react';
 import axios from 'axios';
 import { Image } from 'cloudinary-react';
 import { json } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 function Profile() {
   const [projectName, setProjectName] = useState('');
@@ -367,6 +368,7 @@ ${usage}`;
         <div className="container" align='center'>
           <span class="wave">👋 Let's get started with....</span>
           <h1>Profile Readme Profile<hr /></h1>
+          <p>Want to try Project Readme Generator? <Link id='link' to='/generator' > Try Here</Link></p>
           <form>
             <label>
               <h2>Update Avatar/Your favorite Image</h2>

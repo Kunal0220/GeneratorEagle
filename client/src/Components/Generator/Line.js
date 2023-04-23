@@ -1,5 +1,5 @@
 import React from 'react';
-import '../components/Line.css';
+import './components/Line.css';
 export default function Line() {
     return (
         <div>
