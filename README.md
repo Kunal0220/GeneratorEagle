@@ -25,17 +25,3 @@
 
 - **Customizable themes:** Choose from a variety of themes to create a unique and personalized readme file.
 
-
-### *Installation Guide:*
-
-### *Usage Instructions:*
-
-### *Configuration:*
-
-### *Contribution Guidelines:*
-
-### *License Informations:*
-
-### *Contact Information:*
-
-### *Badges:*
