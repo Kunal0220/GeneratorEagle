@@ -1,0 +1,26 @@
+.LandingBannerText{
+    font-family: 'Roboto', sans-serif;
+    color: #F45050;
+}
+.wave{
+    overflow-x: hidden;
+    max-width: 100%;
+}
+.LandingPageSecondText{
+    width: 20rem;
+    margin: auto;
+    color: #3C486B;
+    text-align: center;
+}
+
+
+.bannerImg{
+    height: 20rem;
+    position: absolute;
+    margin: auto;
+    margin-left: -50rem;
+    margin-top: 9rem;
+    z-index: -1;
+    transform: rotate(-90deg);
+}
+

@@ -5,17 +5,9 @@
 .navbar-li{
     display: flex;
     margin: auto;
-    font-size: 1.2rem
+    /* justify-content: space-around; */
 }
 .signup{
     border: 1px solid rgb(109, 109, 109);
     border-radius: 8px;
-}
-
-#LinkTag{
-    color: rgb(66, 66, 66);
-    text-decoration: none;
-}
-.NavbarImage{
-    height: 4rem;
 }
